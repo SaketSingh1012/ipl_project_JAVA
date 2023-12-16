@@ -1,4 +1,4 @@
-# VISHAL IPL DATABASE MANAGEMENT SYSTEM
+# Saket IPL DATABASE MANAGEMENT SYSTEM
 
 ## About:-
  
@@ -44,4 +44,3 @@
 
 
 
-**If you have any suggestion regarding my project email:- vdas53073@gmail.com.**
